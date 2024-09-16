@@ -1,4 +1,5 @@
 # Hospital Management System
+A full-stack web application designed to streamline hospital administrative and clinical operations. This project showcases expertise in building scalable, responsive web applications using ASP.NET Core Blazor, C#, Microsoft SQL Server, HTML/CSS, and JavaScript.
 
 ## Documentation
 
