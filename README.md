@@ -11,9 +11,6 @@ A full-stack web application designed to streamline hospital administrative and 
 4. [Technologies Used](#technologies-used)
 5. [Installation Guide](#installation-guide)
 6. [Usage Instructions](#usage-instructions)
-7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
